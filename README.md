@@ -15,5 +15,11 @@ Kasir ini dapat menerapkan sistem Voucher Diskon. Voucher tersebut memiliki rent
 
 **Datanya seperti ini**
 
+{username, password, role, type_membership}
+Type Membership
++ 1 Premium
++ 2 Gold
++ 3 Silver
+
 ![image](https://github.com/Xzadez/KasirJava/assets/55611402/d86a744b-50c7-4eea-a1e8-5026c97e87c3)
 
