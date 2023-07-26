@@ -13,7 +13,7 @@ Kasir ini dapat menerapkan sistem Voucher Diskon. Voucher tersebut memiliki rent
 
 ![image](https://github.com/Xzadez/KasirJava/assets/55611402/bda1c3a5-8b4d-42eb-b358-20ca8b483d45)
 
-**Datanya seperti ini**
+**Data Username dan Password**
 
 {username, password, role, type_membership}
 Type Membership
@@ -23,3 +23,12 @@ Type Membership
 
 ![image](https://github.com/Xzadez/KasirJava/assets/55611402/d86a744b-50c7-4eea-a1e8-5026c97e87c3)
 
+**Data Barang**
+
+{nama_barang, code_barang, harga_barang, kategori_barang, subcategory, for_sale}
+
+kategori_barang
++ 1 Non Electronic
++ 2 Electronic
+
++ ![image](https://github.com/Xzadez/KasirJava/assets/55611402/e9737ae7-6c26-43f3-beb0-6c4d0fb19fa8)
