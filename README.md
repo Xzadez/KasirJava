@@ -31,4 +31,4 @@ kategori_barang
 + 1 Non Electronic
 + 2 Electronic
 
-+ ![image](https://github.com/Xzadez/KasirJava/assets/55611402/e9737ae7-6c26-43f3-beb0-6c4d0fb19fa8)
+![image](https://github.com/Xzadez/KasirJava/assets/55611402/e9737ae7-6c26-43f3-beb0-6c4d0fb19fa8)
