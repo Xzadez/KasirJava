@@ -11,4 +11,4 @@ Kasir ini dapat menerapkan sistem Voucher Diskon. Voucher tersebut memiliki rent
 
 **Untuk menrubah data-data seperti username, password, dll ada di package data lalu pilih class DataDB**
 
-@![image](https://github.com/Xzadez/KasirJava/assets/55611402/bda1c3a5-8b4d-42eb-b358-20ca8b483d45)
+![image](https://github.com/Xzadez/KasirJava/assets/55611402/bda1c3a5-8b4d-42eb-b358-20ca8b483d45)
